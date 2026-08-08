@@ -4,5 +4,6 @@
     "config:recommended",
     ":timezone(Asia/Tokyo)",
     "helpers:pinGitHubActionDigests"
-  ]
+  ],
+  "minimumReleaseAge": "3 days"
 }
